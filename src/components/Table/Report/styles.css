@@ -1,0 +1,18 @@
+#page-map .report-container {
+  width: 100%;
+  background: linear-gradient(329.54deg, #1b779b 0%, #247ea1 100%);
+  color: #308bc9;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+#page-map .report-container .table {
+  color: #308bc9;
+}
+
+@media only screen and (max-width: 600px) {
+  #page-map .report-container {
+    padding: 0px;
+    background-color: red;
+  }
+}

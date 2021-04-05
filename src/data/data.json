@@ -1,0 +1,228 @@
+{
+    "months": [
+        {
+            "value": "jan",
+            "label": "Janeiro"
+        },
+        {
+            "value": "fev",
+            "label": "Fevereiro"
+        },
+        {
+            "value": "mar",
+            "label": "Março"
+        },
+        {
+            "value": "abr",
+            "label": "Abril"
+        },
+        {
+            "value": "mai",
+            "label": "Maio"
+        },
+        {
+            "value": "jun",
+            "label": "Junho"
+        },
+        {
+            "value": "jul",
+            "label": "Julho"
+        },
+        {
+            "value": "ago",
+            "label": "Agosto"
+        },
+        {
+            "value": "set",
+            "label": "Setembro"
+        },
+        {
+            "value": "out",
+            "label": "Outubro"
+        },
+        {
+            "value": "nov",
+            "label": "Novembro"
+        },
+        {
+            "value": "dezembro",
+            "label": "Dezembro"
+        }
+    ],
+    "commercialization": [
+        {
+            "value": "PAA",
+            "label": "PAA"
+        },
+        {
+            "value": "PNAE",
+            "label": "PNAE"
+        },
+        {
+            "value": "FEIRA",
+            "label": "Feira"
+        }
+    ],
+    "livestock": [
+        {
+            "value": "Bovino",
+            "label": "Bovino"
+        },
+        {
+            "value": "Ovino",
+            "label": "Ovino"
+        },
+        {
+            "value": "Caprino",
+            "label": "Caprino"
+        },
+        {
+            "value": "Suíno",
+            "label": "Suíno"
+        },
+        {
+            "value": "Piscicultura",
+            "label": "Piscicultura"
+        }
+    ],
+    "geographic_structure": [
+        {
+            "value": "Propriedade",
+            "label": "Propriedades"
+        },
+        {
+            "value": "Ponte",
+            "label": "Pontes"
+        },
+        {
+            "value": "Mata-burro",
+            "label": "Mata-burros"
+        },
+        {
+            "value": "Porteira",
+            "label": "Porteiras"
+        },
+        {
+            "value": "Silo",
+            "label": "Silos"
+        },
+        {
+            "value": "Tanque",
+            "label": "Tanques"
+        },
+        {
+            "value": "Represa",
+            "label": "Represas"
+        },
+        {
+            "value": "Agroindústria",
+            "label": "Agroindústrias"
+        }
+    ],
+    "production": [
+        {
+            "value": "Abobrinhas diversas",
+            "label": "Abobrinhas diversas"
+        },
+        {
+            "value": "Abobrinha verde",
+            "label": "Abobrinha verde"
+        },
+        {
+            "value": "Alface",
+            "label": "Alface"
+        },
+        {
+            "value": "Batat doce",
+            "label": "Batata Doce"
+        },
+        {
+            "value": "Berinjela",
+            "label": "Berinjela"
+        },
+        {
+            "value": "Cebolinha",
+            "label": "Cebolinha"
+        },
+        {
+            "value": "Couve",
+            "label": "Couve"
+        },
+        {
+            "value": "Couve flor",
+            "label": "Couve flor"
+        },
+        {
+            "value": "Melancia",
+            "label": "Melancia"
+        },
+        {
+            "value": "Laranja pera",
+            "label": "Laranja pera"
+        },
+        {
+            "value": "Mandioca descascada",
+            "label": "Mandioca descascada"
+        },
+        {
+            "value": "Maxixe",
+            "label": "Maxixe"
+        },
+        {
+            "value": "Abacaxí",
+            "label": "Abacaxí"
+        },
+        {
+            "value": "Polpa de fruta",
+            "label": "Polpa} de fruta"
+        },
+        {
+            "value": "Babana maçã",
+            "label": "Banana maçã"
+        },
+        {
+            "value": "Banana nanica",
+            "label": "Banana nanica"
+        },
+        {
+            "value": "Mamão formosa",
+            "label": "Mamão formosa"
+        },
+        {
+            "value": "Manga",
+            "label": "Manga"
+        },
+        {
+            "value": "Tomate",
+            "label": "Tomate"
+        },
+        {
+            "value": "Salsa",
+            "label": "Salsa"
+        },
+        {
+            "value": "Limão",
+            "label": "Limão"
+        },
+        {
+            "value": "Maracujá",
+            "label": "Maracujá"
+        },
+        {
+            "value": "Milho verde",
+            "label": "Milho verde"
+        },
+        {
+            "value": "Quiabo",
+            "label": "Quiabo"
+        },
+        {
+            "value": "Chuchu",
+            "label": "Chuchu"
+        },
+        {
+            "value": "Cenoura",
+            "label": "Cenoura"
+        }
+    ]
+}

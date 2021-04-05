@@ -1,0 +1,22 @@
+.map-container {
+  margin-top: 64px;
+  background: #e6f7fb;
+  border: 1px solid #b3dae2;
+  border-radius: 20px;
+}
+
+.map-container footer {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.map-container footer a {
+  line-height: 24px;
+  color: #0089a5;
+  text-decoration: none;
+}
+
+.map-container .leaflet-container {
+  border-bottom: 1px solid #dde3f0;
+  border-radius: 20px;
+}
